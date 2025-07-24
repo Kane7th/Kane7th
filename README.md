@@ -52,9 +52,20 @@
 - 📊 Analytics-ready backend
 - 💸 M-Pesa + Airtel Money integrations
 
+<h3 align="center">🚀 Tech Stack Used</h3>
+
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Used&align=center&border=true&titleColor=white&iconOrigin=true&lineCount=2&bgColor=%230f172a&textColor=gray&icons=flask,postgresql,react,javascript,tailwind,docker,git" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 
 ---
 
