@@ -13,7 +13,7 @@ I'm Kane, a full-stack developer trained at **Moringa School** and driven by rea
 
 > I specialize in building **secure**, **scalable**, and **business-ready** backend systems using Flask and PostgreSQL, with beautiful frontend interfaces in React and Tailwind.
 
-Currently leading backend on **SokoCredit** — a microfinance loan platform for underserved communities in East Africa.
+Currently leading backend on **SokoCredit** : a microfinance loan platform for underserved communities in East Africa.
 
 ---
 
@@ -88,5 +88,5 @@ Currently leading backend on **SokoCredit** — a microfinance loan platform for
 
 ---
 
-> ⚡ *“I don’t just write code — I ship scalable solutions that deliver real value.”*
+> ⚡ *“I don’t just write code, I ship scalable solutions that deliver real value.”*
 
