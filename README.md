@@ -58,8 +58,8 @@ Currently leading backend on **SokoCredit** — a microfinance loan platform for
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kane7th&show_icons=true&count_private=true&theme=tokyonight&hide=stars" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kane7th&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-dd4u1hd53-kane-kabenas-projects.vercel.app/api?username=Kane7th&show_icons=true&count_private=true&theme=tokyonight&hide=stars" height="165" />
+  <img src="https://github-readme-stats-dd4u1hd53-kane-kabenas-projects.vercel.app/api/top-langs/?username=Kane7th&layout=compact&theme=tokyonight&hide_progress=true" height="165" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Currently leading backend on **SokoCredit** — a microfinance loan platform for
 ## 🌐 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kane7th&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph-eyvfabrd6-kane-kabenas-projects.vercel.app/graph?username=Kane7th&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
@@ -89,4 +89,3 @@ Currently leading backend on **SokoCredit** — a microfinance loan platform for
 ---
 
 > ⚡ *“I don’t just write code — I ship scalable solutions that deliver real value.”*
-
